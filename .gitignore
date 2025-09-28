@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test outputs
+test_output/
+error_log.txt
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Binary files generated during testing
+*.bin
+
+# Trace files generated during testing  
+*_trace.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
